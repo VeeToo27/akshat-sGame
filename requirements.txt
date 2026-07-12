@@ -1,0 +1,9 @@
+streamlit>=1.33
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+gymnasium[box2d]
+stable-baselines3
+numpy
+pandas
+imageio
+imageio-ffmpeg
