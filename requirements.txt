@@ -1,7 +1,9 @@
 streamlit>=1.33
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
-gymnasium[box2d]
+gymnasium
+box2d-py==2.3.5
+pygame-ce
 stable-baselines3
 numpy
 pandas
