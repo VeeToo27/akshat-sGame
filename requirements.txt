@@ -9,4 +9,3 @@ numpy
 pandas
 imageio
 imageio-ffmpeg
-swig
